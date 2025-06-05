@@ -1,6 +1,6 @@
-# 【ChatGPT 免费】国内可用的 ChatGPT 免费中文版镜像网站推荐~ （支持 GPT-4，无需翻墙）【2025年5月更新】
+# 【ChatGPT 免费】国内可用的 ChatGPT 免费中文版镜像网站推荐~ （支持 GPT-4，无需翻墙）【2025年6月更新】
 
-> 更新日期：2025/05/01  
+> 更新日期：2025/06/06  
 
 想要在国内使用**免费 ChatGPT**？支持 ChatGPT-4，无需翻墙，轻松使用 **ChatGPT 免费**~
 
@@ -8,8 +8,8 @@
 
 帮助您在无需翻墙的情况下，畅享使用 ChatGPT，无限使用 GPT-4、GPT-4o 和 o1 ~
 
-**ChatGPT 中文版**：**[chat.yixiaai.com](https://chat.yixiaai.com)**   
-**ChatGPT 镜像网站**：**[chat.lanjing.ai](https://chat.lanjing.ai)**
+**ChatGPT 中文版**：**[xsimplechat.com](https://xsimplechat.com)**   
+**ChatGPT 镜像网站**：**[chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
@@ -40,11 +40,11 @@
 
 以下是一些免费推荐的国内 **ChatGPT 中文版镜像网站**，您可以在无需翻墙的情况下，顺畅使用 ChatGPT：
 
-- [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT 中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT 镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT 镜像站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://chat.yixiaai.com/](https://xsimplechat.com/) - **ChatGPT 中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+- [https://chat.lify.vip/](https://chat.lanjing.pro/) - **ChatGPT 镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [https://guide1.lanjing.ai/](https://chat.yixiaai.com/) - **ChatGPT 镜像站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像**，支持 GPT4、4o，简单便捷~
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [https://lanjing.ai/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### 方法一：使用镜像网站
 
-1. **访问镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**）。
+1. **访问镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**）。
 2. **注册或直接使用**：
    - **微信扫码登录**：微信扫码即可快速访问，无需单独注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
